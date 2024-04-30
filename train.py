@@ -1,5 +1,6 @@
 import os
 os.environ["GIT_PYTHON_REFRESH"] = "quiet"
+#以上两条新加
 # YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
 """
 Train a YOLOv5 model on a custom dataset. Models and datasets download automatically from the latest YOLOv5 release.
