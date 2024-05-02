@@ -1,0 +1,22 @@
+data: "data/dataset2"
+
+train: "data/dataset2/images/train"
+val: "data/dataset2/images/test"
+test: "data/dataset2/images/test"
+
+nc: 8
+
+names:
+  [
+    "Anger",
+    "Contempt",
+    "Disgust",
+    "Fear",
+    "Happy",
+    "Neutral",
+    "Sad",
+    "Surprise",
+  ]
+
+# Network configuration (choose other variations if desired)
+network: "yolov5s"
