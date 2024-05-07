@@ -8,6 +8,15 @@ nc: 8
 
 names:
   [
+
+#    "0 Satisfaction",
+#    "20 Satisfaction",
+#    "30 Satisfaction",
+#    "30 Satisfaction",
+#    "100 Satisfaction",
+#    "80 Satisfaction",
+#    "40 Satisfaction",
+#    "60 Satisfaction",
     "Anger",
     "Contempt",
     "Disgust",
@@ -16,6 +25,7 @@ names:
     "Neutral",
     "Sad",
     "Surprise",
+
   ]
 
 # Network configuration (choose other variations if desired)
