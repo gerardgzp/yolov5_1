@@ -2,7 +2,7 @@ import os
 import shutil
 import random
 random.seed(0)
-
+#修改
 
 def split_data(file_path, xml_path, new_file_path, train_rate, val_rate, test_rate):
     each_class_image = []
